@@ -90,6 +90,8 @@ Maintained by [@andreasasprou](https://github.com/andreasasprou). For daily cove
 
 ---
 
+| [Novastart](https://novastart.com/) | Infinite canvas workspace for apps, shared canvases, and AI agents; freemium | -- |
+
 ## Featured Stories
 
 Recent in-depth coverage from [AI Primer Explore](https://www.ai-primer.com/creative):
